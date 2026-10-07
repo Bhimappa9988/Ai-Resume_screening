@@ -24,6 +24,24 @@ class ScreenRequest(BaseModel):
     enable_github: Optional[bool] = True
     max_workers: Optional[int] = 6
 
+from fastapi.responses import HTMLResponse, RedirectResponse
+
+@app.get("/", tags=["Dashboard"], response_class=HTMLResponse)
+def root():
+    """Serve the interactive HTML dashboard report if available, else redirect to /docs."""
+    report_file = Path("./output/report.html")
+    if report_file.exists():
+        return HTMLResponse(content=report_file.read_text(encoding="utf-8"))
+    return RedirectResponse(url="/docs")
+
+@app.get("/report", tags=["Dashboard"], response_class=HTMLResponse)
+def get_html_report():
+    """Explicitly view the HTML ranking report."""
+    report_file = Path("./output/report.html")
+    if report_file.exists():
+        return HTMLResponse(content=report_file.read_text(encoding="utf-8"))
+    raise HTTPException(status_code=404, detail="Report HTML not found. Run screening first.")
+
 @app.get("/health", tags=["Health"])
 def health():
     return {
