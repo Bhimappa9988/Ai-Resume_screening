@@ -1,0 +1,2276 @@
+{
+  "batch_summary": {
+    "total_resumes": 50,
+    "successfully_parsed": 50,
+    "eligible": 36,
+    "rejected": 14,
+    "failed_unreadable": 0
+  },
+  "ranked_candidates": [
+    {
+      "rank": 1,
+      "candidate_name": "Yash Maini",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 88,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 24,
+        "cloud_fullstack": 11,
+        "github": 8,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Pinecone",
+        "FAISS",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent Systems",
+        "LLM",
+        "OpenAI",
+        "Anthropic Claude",
+        "Fine-Tuning",
+        "vLLM",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Asyncio",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "Docker",
+        "GCP",
+        "AWS",
+        "Git",
+        "CI/CD",
+        "Grafana"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Actively committed (2 recent events); 8 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_13.pdf",
+      "email": "mainiyash2@gmail.com",
+      "github_url": "https://github.com/Yashmaini30"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Gourab Das",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 81,
+      "score_breakdown": {
+        "ai_project_depth": 27,
+        "python_backend": 30,
+        "cloud_fullstack": 15,
+        "github": 6,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Kafka",
+        "Docker",
+        "AWS",
+        "Git",
+        "React",
+        "Pytest",
+        "Unit Testing",
+        "CI/CD"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 2 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_17.pdf",
+      "email": "gourabdas1307@gmail.com",
+      "github_url": "https://github.com/gdas37467"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Prathamesh",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 79,
+      "score_breakdown": {
+        "ai_project_depth": 29,
+        "python_backend": 30,
+        "cloud_fullstack": 15,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "RAG",
+        "ChromaDB",
+        "Embeddings",
+        "Multi-Agent Systems",
+        "LLM",
+        "Google Gemini",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Redis",
+        "Celery",
+        "REST APIs",
+        "Kafka",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Git",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "CI/CD",
+        "Observability",
+        "Prometheus",
+        "Grafana",
+        "Rate Limiting",
+        "Caching"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_35.pdf",
+      "email": "prathameshpatil330@gmail.com",
+      "github_url": "https://github.com/Prathameshh-Patil"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Shaiksultanasumaiya",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 76,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 18,
+        "cloud_fullstack": 15,
+        "github": 8,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Multi-Agent Systems",
+        "LLM",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "GraphQL",
+        "Docker",
+        "GCP",
+        "Git",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Pytest",
+        "CI/CD"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Actively committed (4 recent events); 7 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_28.pdf",
+      "email": "Shaiksultanasumaiya623@gmail.com",
+      "github_url": "https://github.com/sumaiya226"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "V Sree Raghu Vardhan",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 76,
+      "score_breakdown": {
+        "ai_project_depth": 29,
+        "python_backend": 26,
+        "cloud_fullstack": 12,
+        "github": 4,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "Pinecone",
+        "Embeddings",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Unit Testing",
+        "CI/CD",
+        "Prometheus",
+        "Caching"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 35 public repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_30.pdf",
+      "email": "vardhanvsr2004@gmail.com",
+      "github_url": "https://github.com/raghuvardhan07"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "Priyanshu Kumar",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 75,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 30,
+        "cloud_fullstack": 4,
+        "github": 6,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "CrewAI",
+        "RAG",
+        "Vector Search",
+        "Pinecone",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent Systems",
+        "LLM",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "MongoDB",
+        "Kafka",
+        "Git",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 5 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_16.pdf",
+      "email": "krpriyanshu2805@gmail.com",
+      "github_url": "https://github.com/pkr2805"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "Abhinav",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 74,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 24,
+        "cloud_fullstack": 9,
+        "github": 10,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "RAG",
+        "Multi-Agent Systems",
+        "OpenAI",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "SQLite",
+        "Redis",
+        "Azure",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CI/CD",
+        "Observability",
+        "Caching"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Actively committed (20 recent events); 4 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited cloud / container deployment evidence"
+      ],
+      "file_name": "candidate_10.pdf",
+      "email": "abhinavmishra3322@gmail.com",
+      "github_url": "https://github.com/AbhinavMishra32"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "Prajwal A S",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 73,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 21,
+        "cloud_fullstack": 4,
+        "github": 6,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent Systems",
+        "LLM",
+        "Ollama",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Asyncio",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "REST APIs",
+        "Linux",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Grafana"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 8 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_22.pdf",
+      "email": "prajwalas8999@gmail.com",
+      "github_url": "https://github.com/prajwalas1"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "Jyandeep Baishya",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 73,
+      "score_breakdown": {
+        "ai_project_depth": 35,
+        "python_backend": 22,
+        "cloud_fullstack": 4,
+        "github": 10,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "ChromaDB",
+        "Tool Calling",
+        "Multi-Agent Systems",
+        "LLM",
+        "Python",
+        "FastAPI",
+        "Redis",
+        "REST APIs",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express.js"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Actively committed (20 recent events); 7 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited automated testing (pytest/CI) evidence",
+        "Limited cloud / container deployment evidence"
+      ],
+      "file_name": "candidate_07.pdf",
+      "email": "craftzyan@gmail.com",
+      "github_url": "https://github.com/ZyanHere"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "Arjun Kumar",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 71,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 18,
+        "cloud_fullstack": 6,
+        "github": 8,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Embeddings",
+        "Multi-Agent Systems",
+        "LLM",
+        "Google Gemini",
+        "Hugging Face",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "AWS",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CI/CD",
+        "Concurrency"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Actively committed (3 recent events); 5 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_08.pdf",
+      "email": "roy.prajapat.143@gmail.com",
+      "github_url": "https://github.com/arjunkumaritsme12"
+    },
+    {
+      "rank": 11,
+      "candidate_name": "Vaibhav Wakde",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 68,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 18,
+        "cloud_fullstack": 5,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "LlamaIndex",
+        "RAG",
+        "ChromaDB",
+        "Weaviate",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent Systems",
+        "LLM",
+        "OpenAI",
+        "Hugging Face",
+        "Fine-Tuning",
+        "Ollama",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Asyncio",
+        "MySQL",
+        "SQLite",
+        "REST APIs",
+        "Docker",
+        "Git",
+        "JavaScript",
+        "Streamlit",
+        "Pytest",
+        "Caching"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_33.pdf",
+      "email": "vaibhavwakde266@gmail.com",
+      "github_url": "https://github.com/vaibhavw1"
+    },
+    {
+      "rank": 12,
+      "candidate_name": "Arunima Saha",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 68,
+      "score_breakdown": {
+        "ai_project_depth": 37,
+        "python_backend": 18,
+        "cloud_fullstack": 11,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "Pinecone",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent Systems",
+        "LLM",
+        "OpenAI",
+        "Google Gemini",
+        "Hugging Face",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "REST APIs",
+        "Docker",
+        "GCP",
+        "AWS",
+        "Git",
+        "Node.js",
+        "Observability"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "No public GitHub profile provided.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_43.pdf",
+      "email": "arunimasaha11@gmail.com",
+      "github_url": null
+    },
+    {
+      "rank": 13,
+      "candidate_name": "Hari Shanker Sharma",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 67,
+      "score_breakdown": {
+        "ai_project_depth": 27,
+        "python_backend": 23,
+        "cloud_fullstack": 12,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "Qdrant",
+        "Embeddings",
+        "Tool Calling",
+        "LLM",
+        "Hugging Face",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "Pytest",
+        "CI/CD",
+        "Observability"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_41.pdf",
+      "email": "harishankersharma648@gmail.com",
+      "github_url": "https://github.com/triggered-exe"
+    },
+    {
+      "rank": 14,
+      "candidate_name": "Raj Thumar",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 61,
+      "score_breakdown": {
+        "ai_project_depth": 17,
+        "python_backend": 27,
+        "cloud_fullstack": 12,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "RAG",
+        "LLM",
+        "OpenAI",
+        "Google Gemini",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "GraphQL",
+        "Kafka",
+        "Docker",
+        "AWS",
+        "Git",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "CI/CD",
+        "Caching"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Flask.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Python web backend development experience",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_40.pdf",
+      "email": "thumarraj999@gmail.com",
+      "github_url": "https://github.com/rthumar0903"
+    },
+    {
+      "rank": 15,
+      "candidate_name": "Vivek Chimnani",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 60,
+      "score_breakdown": {
+        "ai_project_depth": 15,
+        "python_backend": 30,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LLM",
+        "Anthropic Claude",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Docker",
+        "Linux",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "CI/CD",
+        "Concurrency"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_44.pdf",
+      "email": "vivekchimnani4231@gmail.com",
+      "github_url": "https://github.com/Vivekk-11"
+    },
+    {
+      "rank": 16,
+      "candidate_name": "Md Azizul Islam",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 57,
+      "score_breakdown": {
+        "ai_project_depth": 17,
+        "python_backend": 17,
+        "cloud_fullstack": 9,
+        "github": 9,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "RAG",
+        "Embeddings",
+        "LLM",
+        "OpenAI",
+        "Asyncio",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "AWS",
+        "Git",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "CI/CD",
+        "Grafana"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking.",
+      "github_summary": "Actively committed (20 recent events); 1 relevant Python/AI repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_11.pdf",
+      "email": "mdazizul8741@gmail.com",
+      "github_url": "https://github.com/Azizul-11"
+    },
+    {
+      "rank": 17,
+      "candidate_name": "Kiran",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 56,
+      "score_breakdown": {
+        "ai_project_depth": 34,
+        "python_backend": 12,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Multi-Agent Systems",
+        "LLM",
+        "OpenAI",
+        "Anthropic Claude",
+        "Hugging Face",
+        "Ollama",
+        "Python",
+        "FastAPI",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "Git",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_47.pdf",
+      "email": "kirnaregal7@gmail.com",
+      "github_url": "https://github.com/kiran-naregal"
+    },
+    {
+      "rank": 18,
+      "candidate_name": "Vivek Shekhawat",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 56,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 18,
+        "cloud_fullstack": 4,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "Embeddings",
+        "LLM",
+        "Ollama",
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "REST APIs",
+        "Git",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Rate Limiting",
+        "Concurrency"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with Django.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Python web backend development experience",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_39.pdf",
+      "email": "vivekshekhawatofficial1592002@gmail.com",
+      "github_url": "https://github.com/Vivek1592002"
+    },
+    {
+      "rank": 19,
+      "candidate_name": "Shubhanshu Navadiya",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 51,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 14,
+        "cloud_fullstack": 2,
+        "github": 6,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "LlamaIndex",
+        "CrewAI",
+        "AutoGen",
+        "RAG",
+        "Weaviate",
+        "Qdrant",
+        "Embeddings",
+        "Multi-Agent Systems",
+        "LLM",
+        "OpenAI",
+        "Google Gemini",
+        "Hugging Face",
+        "Ollama",
+        "vLLM",
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "SQLite",
+        "REST APIs",
+        "Git",
+        "Streamlit",
+        "CI/CD"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 4 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_12.pdf",
+      "email": "subhnavadiya@gmail.com",
+      "github_url": "https://github.com/Shubhanshu-356"
+    },
+    {
+      "rank": 20,
+      "candidate_name": "Nevil Jasmin Mehta",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 51,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 24,
+        "cloud_fullstack": 15,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "RAG",
+        "Qdrant",
+        "Embeddings",
+        "LLM",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Celery",
+        "REST APIs",
+        "Docker",
+        "AWS",
+        "Git",
+        "React",
+        "JavaScript",
+        "Tailwind CSS",
+        "Streamlit"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_50.pdf",
+      "email": "nevilmehta5@gmail.com",
+      "github_url": "https://github.com/Nevilmehta"
+    },
+    {
+      "rank": 21,
+      "candidate_name": "Krishan Kant",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 51,
+      "score_breakdown": {
+        "ai_project_depth": 11,
+        "python_backend": 20,
+        "cloud_fullstack": 10,
+        "github": 8,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Kafka",
+        "Docker",
+        "Git",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Prometheus",
+        "Rate Limiting",
+        "Caching",
+        "Concurrency"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking.",
+      "github_summary": "Actively committed (6 recent events); 1 relevant Python/AI repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Containerized deployment exposure (Docker/K8s)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_09.pdf",
+      "email": "krishankantptu@gmail.com",
+      "github_url": "https://github.com/krishankantgit"
+    },
+    {
+      "rank": 22,
+      "candidate_name": "Thejeshwaar Paasila",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 49,
+      "score_breakdown": {
+        "ai_project_depth": 17,
+        "python_backend": 15,
+        "cloud_fullstack": 9,
+        "github": 5,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "RAG",
+        "LLM",
+        "OpenAI",
+        "Google Gemini",
+        "Anthropic Claude",
+        "Hugging Face",
+        "Prompt Engineering",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "SQLite",
+        "MongoDB",
+        "SQLAlchemy",
+        "REST APIs",
+        "Docker",
+        "GCP",
+        "Linux",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "CI/CD"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Flask.",
+      "github_summary": "Moderate recent activity; 1 relevant Python/AI repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Python web backend development experience",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_26.pdf",
+      "email": "thejeshwaarp@gmail.com",
+      "github_url": "https://github.com/tejaharleys"
+    },
+    {
+      "rank": 23,
+      "candidate_name": "Annisha S",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 47,
+      "score_breakdown": {
+        "ai_project_depth": 20,
+        "python_backend": 18,
+        "cloud_fullstack": 6,
+        "github": 3,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "Azure",
+        "Git",
+        "React"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 4 public repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_23.pdf",
+      "email": "annishasaravanan83@gmail.com",
+      "github_url": "https://github.com/annisha-atdoor"
+    },
+    {
+      "rank": 24,
+      "candidate_name": "Parshuram",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 46,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 17,
+        "cloud_fullstack": 12,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "Anthropic Claude",
+        "Python",
+        "Flask",
+        "Django",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "GraphQL",
+        "Kafka",
+        "Docker",
+        "AWS",
+        "Azure",
+        "Linux",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "CI/CD",
+        "Caching"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Django.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Python web backend development experience",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [],
+      "file_name": "candidate_45.pdf",
+      "email": "parshuramkumarofficial725@gmail.com",
+      "github_url": "https://github.com/parshuramkumarsitcomp-collab"
+    },
+    {
+      "rank": 25,
+      "candidate_name": "Pavani A",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 45,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 18,
+        "cloud_fullstack": 10,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LLM",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "REST APIs",
+        "Docker",
+        "Git",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "CI/CD"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_38.pdf",
+      "email": "pavani10112004@gmail.com",
+      "github_url": "https://github.com/Pavani-A"
+    },
+    {
+      "rank": 26,
+      "candidate_name": "Harsha A",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 44,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 18,
+        "cloud_fullstack": 12,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Embeddings",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "REST APIs",
+        "Docker",
+        "Azure",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "No public GitHub profile provided.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_15.pdf",
+      "email": "harshaarun2608@gmail.com",
+      "github_url": null
+    },
+    {
+      "rank": 27,
+      "candidate_name": "Vikram Madhyasta",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 42,
+      "score_breakdown": {
+        "ai_project_depth": 17,
+        "python_backend": 3,
+        "cloud_fullstack": 11,
+        "github": 8,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "OpenAI",
+        "Python",
+        "REST APIs",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Linux",
+        "Git",
+        "CI/CD"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking.",
+      "github_summary": "Actively committed (19 recent events); 20 public repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence"
+      ],
+      "file_name": "candidate_29.pdf",
+      "email": "vikrammadyasta@gmail.com",
+      "github_url": "https://github.com/vikrammadhyasta"
+    },
+    {
+      "rank": 28,
+      "candidate_name": "Aditi Kala",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 41,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 14,
+        "cloud_fullstack": 15,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LLM",
+        "Google Gemini",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "GCP",
+        "Git",
+        "React",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_37.pdf",
+      "email": "aditi25.kala@gmail.com",
+      "github_url": "https://github.com/why-aditi"
+    },
+    {
+      "rank": 29,
+      "candidate_name": "P.V. Jayavardhana Sai",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 40,
+      "score_breakdown": {
+        "ai_project_depth": 14,
+        "python_backend": 8,
+        "cloud_fullstack": 12,
+        "github": 6,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "RAG",
+        "LLM",
+        "Hugging Face",
+        "Ollama",
+        "Prompt Engineering",
+        "Python",
+        "Flask",
+        "MySQL",
+        "Docker",
+        "AWS",
+        "Git",
+        "React",
+        "JavaScript"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Flask.",
+      "github_summary": "Moderate recent activity; 5 relevant Python/AI repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Python web backend development experience",
+        "Containerized deployment exposure (Docker/K8s)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_19.pdf",
+      "email": "pvjayavardhan6@gmail.com",
+      "github_url": "https://github.com/jayavard123"
+    },
+    {
+      "rank": 30,
+      "candidate_name": "Manojkumar",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 39,
+      "score_breakdown": {
+        "ai_project_depth": 19,
+        "python_backend": 11,
+        "cloud_fullstack": 4,
+        "github": 5,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Hugging Face",
+        "Python",
+        "Flask",
+        "MySQL",
+        "REST APIs",
+        "Git",
+        "React",
+        "Streamlit"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Flask.",
+      "github_summary": "Moderate recent activity; 1 relevant Python/AI repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Python web backend development experience"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_21.pdf",
+      "email": "manojkumar.k.r0904@gmail.com",
+      "github_url": "https://github.com/ManojKumar-8055"
+    },
+    {
+      "rank": 31,
+      "candidate_name": "Atul Kumar",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 36,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 9,
+        "cloud_fullstack": 9,
+        "github": 6,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LLM",
+        "Google Gemini",
+        "Python",
+        "Flask",
+        "MySQL",
+        "REST APIs",
+        "GCP",
+        "Git",
+        "Streamlit"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Flask.",
+      "github_summary": "Moderate recent activity; 7 relevant Python/AI repositories.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Python web backend development experience"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_25.pdf",
+      "email": "atulofficial02@gmail.com",
+      "github_url": "https://github.com/atulkumar2025"
+    },
+    {
+      "rank": 32,
+      "candidate_name": "Aswin Raj R",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 30,
+      "score_breakdown": {
+        "ai_project_depth": 17,
+        "python_backend": 7,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangChain",
+        "RAG",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "MySQL",
+        "MongoDB",
+        "REST APIs",
+        "AWS",
+        "Linux",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_49.pdf",
+      "email": "aswinrajr12@gmail.com",
+      "github_url": "https://github.com/Aswinx0"
+    },
+    {
+      "rank": 33,
+      "candidate_name": "M Sai Kushith",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 30,
+      "score_breakdown": {
+        "ai_project_depth": 13,
+        "python_backend": 10,
+        "cloud_fullstack": 2,
+        "github": 5,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangGraph",
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "LLM",
+        "Nvidia NIM",
+        "Prompt Engineering",
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Linux",
+        "Git",
+        "React",
+        "TypeScript"
+      ],
+      "project_summary": "Built stateful agentic workflows using LangGraph. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "Moderate recent activity; 1 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Modern asynchronous Python backend (FastAPI/asyncio)",
+        "Relational database & caching integration (PostgreSQL/Redis)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_06.pdf",
+      "email": "msaikushith718@gmail.com",
+      "github_url": "https://github.com/SaiKushith"
+    },
+    {
+      "rank": 34,
+      "candidate_name": "Saif Ali Nagori",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 26,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 10,
+        "cloud_fullstack": 4,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "RAG",
+        "LLM",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "SQLite",
+        "MongoDB",
+        "REST APIs",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with FastAPI.",
+      "github_summary": "GitHub API rate limit reached; skipped enrichment without penalizing.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search",
+        "Modern asynchronous Python backend (FastAPI/asyncio)"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_36.pdf",
+      "email": "saifalinagori78@gmail.com",
+      "github_url": "https://github.com/Nagorisaifali"
+    },
+    {
+      "rank": 35,
+      "candidate_name": "Dornipadu Karthika Chaitrika",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 25,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 7,
+        "cloud_fullstack": 0,
+        "github": 6,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "RAG",
+        "Embeddings",
+        "Multi-Agent Systems",
+        "LLM",
+        "Google Gemini",
+        "Prompt Engineering",
+        "Python",
+        "Flask",
+        "Django",
+        "Git",
+        "JavaScript"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking. Engineered backend REST APIs with Django.",
+      "github_summary": "Moderate recent activity; 6 relevant Python/AI repositories.",
+      "strengths": [
+        "Stateful / multi-agent workflow architecture",
+        "Python web backend development experience"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited automated testing (pytest/CI) evidence"
+      ],
+      "file_name": "candidate_24.pdf",
+      "email": "dornipadukarthi@gmail.com",
+      "github_url": "https://github.com/KarthikaDornipadu"
+    },
+    {
+      "rank": 36,
+      "candidate_name": "Nisarga H. S.",
+      "eligible": true,
+      "rejection_reasons": [],
+      "total_score": 20,
+      "score_breakdown": {
+        "ai_project_depth": 12,
+        "python_backend": 5,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "Anthropic Claude",
+        "Python",
+        "MySQL",
+        "REST APIs",
+        "Linux",
+        "Git",
+        "Node.js",
+        "CI/CD"
+      ],
+      "project_summary": "Implemented RAG pipelines with semantic vector retrieval and document chunking.",
+      "github_summary": "No public GitHub profile provided.",
+      "strengths": [
+        "Retrieval-Augmented Generation (RAG) pipeline with vector search"
+      ],
+      "concerns": [
+        "Limited Redis / caching evidence",
+        "Limited cloud / container deployment evidence"
+      ],
+      "file_name": "candidate_34.pdf",
+      "email": "nisarga20suresh@gmail.com",
+      "github_url": null
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "rank": null,
+      "candidate_name": "Shivam Raj",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "REST APIs",
+        "Docker",
+        "Azure",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "CI/CD"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_02.pdf",
+      "email": "shivam2kraj@gmail.com",
+      "github_url": null
+    },
+    {
+      "rank": null,
+      "candidate_name": "Kartikay Sinha",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "MySQL",
+        "MongoDB",
+        "REST APIs",
+        "Docker",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_01.pdf",
+      "email": "kartikay.sinha17@gmail.com",
+      "github_url": "https://github.com/KS1745"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Yuvaraj R",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Docker",
+        "Git",
+        "Streamlit"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_04.pdf",
+      "email": "yuvi.2003kce@gmail.com",
+      "github_url": "https://github.com/yuva12003"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Agam Jain",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "GraphQL",
+        "Docker",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "Caching"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_03.pdf",
+      "email": "jainagam4@gmail.com",
+      "github_url": "https://github.com/AgamJain05"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Vishwas Badiger",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "MongoDB",
+        "REST APIs",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_05.pdf",
+      "email": "Vishwasbadiger240@gmail.com",
+      "github_url": null
+    },
+    {
+      "rank": null,
+      "candidate_name": "Jaya Nandi",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "REST APIs",
+        "AWS",
+        "Git",
+        "React",
+        "JavaScript"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_14.pdf",
+      "email": "jaya85300@gmail.com",
+      "github_url": "https://github.com/jaya-nandi"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Harshit Kumar Mishra",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "GraphQL",
+        "Docker",
+        "GCP",
+        "AWS",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "Unit Testing",
+        "CI/CD",
+        "Observability",
+        "Grafana",
+        "Rate Limiting",
+        "Caching"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_18.pdf",
+      "email": "jmd.harshitmishra@gmail.com",
+      "github_url": "https://github.com/Zack-Dx"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Contribute To Innovative Projects.",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Git",
+        "React",
+        "JavaScript"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_20.pdf",
+      "email": "priyaraguraman29@gmail.com",
+      "github_url": "https://github.com/https"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Gayathri Palraj",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "MongoDB",
+        "REST APIs",
+        "Git",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "CI/CD"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_27.pdf",
+      "email": "gayathri.2842004@gmail.com",
+      "github_url": "https://github.com/GayathriPalraj-dev"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Shreya Chauhan",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Kafka",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Tailwind CSS",
+        "Caching"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_31.pdf",
+      "email": "chauhanshreya140@gmail.com",
+      "github_url": "https://github.com/ShreyaChauhan-2"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Mukul Pal",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LLM",
+        "OpenAI",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "Docker",
+        "AWS",
+        "Git",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "CI/CD",
+        "Caching"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No evidence of Python stack"
+      ],
+      "file_name": "candidate_32.pdf",
+      "email": "mukulpal0333@gmail.com",
+      "github_url": "https://github.com/mukulpal03"
+    },
+    {
+      "rank": null,
+      "candidate_name": "Anjali Patil",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "REST APIs",
+        "Docker",
+        "Git",
+        "JavaScript",
+        "Caching"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_42.pdf",
+      "email": "anjalipatil1220@gmail.com",
+      "github_url": null
+    },
+    {
+      "rank": null,
+      "candidate_name": "Aabhar Gupta",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "REST APIs",
+        "GCP",
+        "Git",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "CI/CD",
+        "Caching"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No evidence of Python stack",
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_46.pdf",
+      "email": "aabhargupta2310@gmail.com",
+      "github_url": null
+    },
+    {
+      "rank": null,
+      "candidate_name": "Nidhi Km",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project evidence"
+      ],
+      "total_score": 0,
+      "score_breakdown": {
+        "ai_project_depth": 0,
+        "python_backend": 0,
+        "cloud_fullstack": 0,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "MySQL",
+        "REST APIs",
+        "AWS",
+        "Git",
+        "React",
+        "JavaScript"
+      ],
+      "project_summary": "Profile did not meet minimum eligibility criteria.",
+      "github_summary": "Skipped (ineligible candidate).",
+      "strengths": [],
+      "concerns": [
+        "No AI/agentic project evidence"
+      ],
+      "file_name": "candidate_48.pdf",
+      "email": "nidhikmgowda24@gmail.com",
+      "github_url": "https://github.com/Nidhi-km"
+    }
+  ]
+}
